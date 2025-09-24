@@ -4,7 +4,13 @@
 
 Para rodar os scripts de simulação você pode:
 - rodar cada script `moduloN.py` individualmente;
+  ```bash
+  python moduloN.py
+  ```
 - rodar o script `simulacao.py` que roda todos eles de uma vez.
+  ```bash
+  python simulacao.py
+  ```
 
 ## Rodando o projeto principal
 
